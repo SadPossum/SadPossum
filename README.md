@@ -3,8 +3,8 @@
 ![banner](https://user-images.githubusercontent.com/61198926/121367169-c0868d00-c942-11eb-9e60-a73c5b1f0256.png)
 
 ## Some Stats: 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SadPossum&show_icons=true&theme=react&count_private=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadPossum&show_icons=true&theme=react&count_private=true">
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=SadPossum&show_icons=true&theme=react&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SadPossum&show_icons=true&theme=react&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 <!--
 **SadPossum/SadPossum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
