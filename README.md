@@ -3,8 +3,8 @@
 ![banner](https://user-images.githubusercontent.com/61198926/121367169-c0868d00-c942-11eb-9e60-a73c5b1f0256.png)
 
 ## Some Stats: 
-<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=SadPossum&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SadPossum&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SadPossum&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
 <!--
 **SadPossum/SadPossum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
