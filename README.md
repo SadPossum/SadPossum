@@ -4,11 +4,11 @@
 
 ## <img height="25" src="https://readme-typing-svg.herokuapp.com?color=C9D1D9&height=20&vCenter=true&lines=Some+stats+:">
 <p align="center">
-	<img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
-	<img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=13&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
+	<img height="200" src="https://github-readme-stats-one-bice.vercel.app/api?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
+	<img height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=13&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
 </p>
 <p align="center">
-	<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SadPossum&background=0D1117&border=ff004c&stroke=ff004c&ring=ff004c&fire=ff004c&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=ff004c&sideLabels=ff004c&dates=C9D1D9">
+	<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SadPossum&background=0D1117&border=ff004c&stroke=ff004c&ring=ff004c&fire=ff004c&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=ff004c&sideLabels=ff004c&dates=C9D1D9">
 </p>
 <!--
 **SadPossum/SadPossum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
