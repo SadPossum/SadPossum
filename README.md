@@ -1,8 +1,8 @@
-## <img height="25" src="https://readme-typing-svg.herokuapp.com?color=C9D1D9&height=20&vCenter=true&lines=Hello+comrads+👋">
+## <img height="25" src="https://readme-typing-svg.herokuapp.com?color=C9D1D9&height=20&font=Helvetica&vCenter=true&lines=Hello+comrads+👋">
 
 ![banner](https://user-images.githubusercontent.com/61198926/121367169-c0868d00-c942-11eb-9e60-a73c5b1f0256.png)
 
-## <img height="25" src="https://readme-typing-svg.herokuapp.com?color=C9D1D9&height=20&vCenter=true&lines=Some+stats:">
+## <img height="25" src="https://readme-typing-svg.herokuapp.com?color=C9D1D9&height=20&font=Helvetica&vCenter=true&lines=Some+stats:">
 <p align="center">
 	<img height="220" src="https://github-readme-stats-one-bice.vercel.app/api?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
 	<img height="220" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SadPossum&show_icons=true&include_all_commits=true&count_private=true&border_radius=13&bg_color=0D1117&border_color=ff004c&icon_color=ff004c&title_color=ff004c&text_color=C9D1D9">
